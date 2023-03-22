@@ -1,6 +1,6 @@
 import React from "react"
 import { Link } from "react-router-dom"
-import "/workspace/react-hello-webapp/src/js/component/estilos.css"
+import "/workspace/star-wars-blog/src/js/component/estilos.css"
 import { useContext } from "react"
 import { Context } from "../store/appContext"
 export const Card=(props)=>{

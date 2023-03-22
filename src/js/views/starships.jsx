@@ -1,5 +1,5 @@
 import React, { useContext, useEffect, useState } from "react"
-import "/workspace/react-hello-webapp/src/styles/home.css"
+import "/workspace/star-wars-blog/src/js/component/estilos.css"
 import { Card } from "../component/card.jsx"
 import { Context } from "../store/appContext.js"
 

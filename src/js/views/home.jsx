@@ -3,7 +3,7 @@ import React, {useContext, useEffect, useState} from "react";
 import { Context } from "../store/appContext";
 import { Link } from "react-router-dom";
 import {Card} from "../component/card.jsx"
-import "/workspace/react-hello-webapp/src/js/component/estilos.css"
+import "/workspace/star-wars-blog/src/js/component/estilos.css"
 export const Home = () => {
 const {actions, store}=useContext(Context)
 
