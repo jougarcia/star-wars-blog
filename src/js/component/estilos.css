@@ -1,0 +1,90 @@
+#card{
+    margin-top: 0rem;
+    background-color: rgb(0, 0, 0);
+    border-width: 1px;
+    border-color: rgb(243, 245, 243);
+    height: 100%;
+    max-width: 200px;
+}
+.imagcard{
+    height: 9rem;
+}
+.buttoncard{
+    font-size: .9rem;
+    padding: .5rem .9rem;
+}
+.buttonscard{
+    margin-top: auto;
+}
+.title-card{
+    margin-bottom: 2rem;
+}
+
+
+
+
+
+
+
+#name{
+    font-size: .9em;
+    margin-bottom:auto;
+    color: rgb(243, 247, 243);
+}
+
+
+#contfooter{
+    max-width: 1170px;
+    
+    margin: auto;
+}
+.footer{
+    background-color: #24262b;
+    padding: 70px 0;
+}
+ul{
+    list-style: none;
+}
+#rowfooter{
+    display: flex;
+    flex-wrap: wrap;
+}
+.footer-col{
+    width: 25%;
+    padding: 0 15px;
+}
+.footer-col h4{
+    font-size: 18px;
+    color: #ffffff;
+    text-transform: capitalize;
+    margin-bottom: 30px;
+}
+
+/*pagination*/
+
+
+.page-link{
+    background-color: #000000;
+    border-color: rgb(236, 241, 236);
+    color: rgb(227, 238, 227);
+    margin-top: 1rem;
+}
+.page-link:focus{
+    background-color: #ffffff;
+}
+
+
+/*navbar*/
+
+.wholenav{
+   border: 1px solid rgb(226, 231, 226); 
+   color: rgb(241, 243, 241);
+}
+.buttfav{
+    background: none;
+    color: rgb(226, 201, 90);
+}
+
+.text{
+    color: rgb(234, 241, 234);
+}
